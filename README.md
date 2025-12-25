@@ -331,3 +331,58 @@ order by days DESC
 ```
 
 *  Nearly 54% of the customers took more than 60 days to make their next order
+
+
+
+# Recommendations & Business Actions
+
+## Double-down on High-Value Returning Customers
+
+* Launch a loyalty & rewards program (early access, cashback, free delivery)
+
+* Introduce personalized recommendations for returning users based on past categories
+
+* Trigger email / push offers after every successful order to encourage repeat purchases
+
+#### Expected Impact:
+* Higher retention → increased Customer Lifetime Value (CLV) → stable revenue growth
+
+## Fix Low Repeat Purchase Rate (Critical Risk Area)
+
+* Implement 30-day re-engagement campaigns (discounts, reminders, recommendations)
+
+   Add time-based nudges:
+
+   * Day 20 → Reminder
+
+   * Day 45 → Offer
+
+   * Day 60 → Win-back campaign
+
+Segment customers by purchase gap and treat long-gap users as churn-risk
+
+Expected Impact:
+* Reduced churn and higher monthly active customers (MAU)
+
+## City-Focused Growth Strategy
+
+* Strengthen logistics and inventory planning in top revenue cities
+
+* Pilot hyper local promotions in high-performing cities
+
+* Use city wise top purchasers as look alike audiences for acquisition
+
+Expected Impact:
+* Scalable growth with lower operational risk
+
+## Convert High-Engagement New Customers
+
+* Improve first-purchase experience (simpler checkout, onboarding offers)
+
+* Add first-order incentives with limited validity
+
+* Show best-selling products instead of generic listings to new users
+
+Expected Impact:
+* Higher first-to-second order conversion
+
