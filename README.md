@@ -72,6 +72,8 @@ group by city
 order by revenue
 ```
 
+<img width="977" height="548" alt="Image" src="https://github.com/user-attachments/assets/fb75c519-fc6b-4f69-b929-6304c0f09290" />
+
 * Cities like Istanbul, Ankara, Izmir countributes 52% of total revenue
 
 #### Revenue by product categories
@@ -207,6 +209,8 @@ group by case when age between 18 and 39 then 'Young Age'
 		 else 'Senior Citizen' end
 order by revenue_contribution desc
 ```
+<img width="990" height="663" alt="Image" src="https://github.com/user-attachments/assets/92964372-3345-4880-a7a2-5990ddab0eda" />
+
 | Age Group        | Revenue Contribution (₹) |
 |------------------|--------------------------|
 | Young Age        | 18,426,416.77            |
@@ -342,6 +346,13 @@ order by days DESC
 
 *  Nearly 54% of the customers took more than 60 days to make their next order
 
+#### Revenue By Gender
+
+<img width="987" height="661" alt="Image" src="https://github.com/user-attachments/assets/e9706c2c-fd2a-49d1-ad46-d2c00d508706" />
+
+## Dashboard
+
+<img width="999" height="567" alt="Image" src="https://github.com/user-attachments/assets/8a68e4d8-2261-4e8c-ba00-fbda41d6d48b" />
 
 
 # Recommendations & Business Actions
