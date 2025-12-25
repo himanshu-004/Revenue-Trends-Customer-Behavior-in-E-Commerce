@@ -62,6 +62,16 @@ GROUP by to_char(date, 'YYYY-mm')
 order by order_date 
 ```
 
+#### Revenue by city
+
+```sql
+select city, 
+       sum(unit_price * quantity) as revenue 
+from ecommerce_sales
+group by city
+order by revenue
+```
+
 * Cities like Istanbul, Ankara, Izmir countributes 52% of total revenue
 
 #### Revenue by product categories
